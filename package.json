@@ -1,0 +1,15 @@
+{
+  "name": "bike-shop-manager",
+  "version": "1.0.0",
+  "description": "A simple bike shop management system",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8080 || python3 -m http.server 8080",
+    "dev": "python -m http.server 8080 || python3 -m http.server 8080"
+  },
+  "keywords": ["bike-shop", "management", "vanilla-js", "static-site"],
+  "author": "Bike Shop Manager",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
